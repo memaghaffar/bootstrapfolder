@@ -1,0 +1,59 @@
+let data=[
+
+{
+    "img" : "imges/1.jpg",
+    "title" : "Product1",
+    "des" : "Xyzzz",
+    "btn" : "Download"
+},
+
+{
+    "img" : "imges/1.jpg",
+    "title" : "Product2",
+    "des" : "Xyzzz",
+    "btn" : " ADD to Cart"
+},
+{
+    "img" : "imges/1.jpg",
+    "title" : "Product3",
+    "des" : "Xyzzz",
+    "btn" : " ADD to Cart"
+},
+{
+    "img" : "imges/1.jpg",
+    "title" : "Product4",
+    "des" : "Xyzzz",
+    "btn" : " ADD to Cart"
+},
+{
+    "img" : "imges/1.jpg",
+    "title" : "Product5",
+    "des" : "Xyzzz",
+    "btn" : " ADD to Cart"
+},{
+    "img" : "imges/1.jpg",
+    "title" : "Product6",
+    "des" : "Xyzzz",
+    "btn" : " ADD to Cart"
+},
+{
+    "img" : "imges/1.jpg",
+    "title" : "Product7",
+    "des" : "Xyzzz",
+    "btn" : " ADD to Cart"
+},
+
+{
+    "img" : "imges/1.jpg",
+    "title" : "Product8",
+    "des" : "Xyzzz",
+    "btn" : " ADD to Cart"
+},
+{
+    "img" : "imges/1.jpg",
+    "title" : "Product9",
+    "des" : "Xyzzz",
+    "btn" : " ADD to Cart"
+}
+
+]
